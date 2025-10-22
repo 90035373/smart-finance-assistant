@@ -1,4 +1,8 @@
 # 📓 Developer's Diary – AI Collaboration Guide
+STUDENT ID: 22132972
+Project: Smart Finance Assistant
+Course: ISYS 2001
+Semester 2, 2025
 
 This file shows sample entries for your **Developer's Diary**. You must document your AI collaboration throughout the project development. Each entry should have:
 - **Artifact**: a screenshot, GIF, or snippet of your AI interaction
@@ -7,16 +11,18 @@ This file shows sample entries for your **Developer's Diary**. You must document
 
 **Key Principle**: You're directing AI like a junior developer - always review, critique, and improve their suggestions.
 
----
+
+
 
 ## Foundation Skills Examples
 
 ### Entry 1 – Effective AI Prompting for Business Data
 **Artifact:** Screenshot of ChatGPT conversation about analyzing spending data.
 
-**My Initial Prompt:** "Help me analyze CSV data with pandas"
+    <img width="1451" height="613" alt="Screenshot 2025-10-22 180347" src="https://github.com/user-attachments/assets/b0b21fa0-9f55-457e-89a3-b12abf72d2a0" />
 
-**My Improved Prompt:** "I'm building a Smart Finance Assistant. I have a CSV with Date, Amount, Category, Description columns. The Amount has dollar signs that need cleaning. I want to calculate total spending by category and format results for a business presentation. Please write pandas code with clear comments."
+
+**My Only Prompt: To Brainstorm an Specific Finance Problem that could be solved with the CSV tool which can help people be aware for their budget and spread awareness.
 
 **Context:** Learning to write specific, business-focused AI prompts.
 
